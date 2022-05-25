@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="br.arbo.swinginsulation" type="repository">
+    <properties maven-id="br.com.arbo.swinginsulation:swinginsulation:1.0" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/br/com/arbo/swinginsulation/swinginsulation/1.0/swinginsulation-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
